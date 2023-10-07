@@ -1,0 +1,13 @@
+table, td{
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+body{
+    background-color: darkgray;
+}
+.zold{
+    background-color: darkgreen;
+}
+.kek{
+    background-color: blue;
+}
